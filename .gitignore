@@ -1,0 +1,12 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+build/
+ios/Pods/
+android/build/
+
+# macOS specific
+.DS_Store

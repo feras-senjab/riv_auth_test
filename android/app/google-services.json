@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028613333311",
+    "project_id": "riv-auth-test",
+    "storage_bucket": "riv-auth-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028613333311:android:35c32c95f7d1107dca338a",
+        "android_client_info": {
+          "package_name": "com.example.riv_auth_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZriW7HOpuhjTMDCyvum-9cewtFeqjAGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
